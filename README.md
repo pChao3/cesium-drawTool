@@ -6,7 +6,7 @@
 
 1.使用 script 标签引入到 Html 文件中
 
-` <script type="text/javascript" async src="/gptDraw.js"></script>`
+` <script type="text/javascript" async src="/DrawTool.js"></script>`
 
 2.实例化对象
 
